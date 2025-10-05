@@ -1,6 +1,5 @@
 import { useState } from "react";
-import logoo from "../assets/logoo.png";
-import { color, motion } from "framer-motion";
+import {  motion } from "framer-motion";
 import { FaBars, FaTimes } from "react-icons/fa";
 
 const Navbar = () => {

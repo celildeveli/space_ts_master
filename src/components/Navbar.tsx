@@ -47,7 +47,7 @@ const Navbar = () => {
 
       <div className="hidden md:flex items-center justify-center mr-10 md:mr-20">
        <button
-  onClick={() => window.location.href = "https://steady-churros-74609a.netlify.app/"}
+  onClick={() => window.location.href = "https://stellarnnova.netlify.app/"}
   className="text-white border-2 px-5 py-2 rounded-md hover:bg-blue-600 hover:border-0 duration-1000 ease"
 >
   Try StellarNova 1.0

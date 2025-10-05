@@ -72,7 +72,7 @@ const Footer = () => {
             transition={{ delay: 0.5, duration: 1 }}
           >
             <div className="flex flex-col gap-y-5">
-              <h1>Hamdi Celil Develi</h1>
+              <a>Hamdi Celil Develi</a>
               <a href="#Home" className="font-thin">
                 Mustafa Duran
               </a>
